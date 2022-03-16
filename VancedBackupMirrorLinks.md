@@ -12,3 +12,4 @@
 
 ### Vanced Non-root ARM32
 ## Vanced Root
+### Vanced Root ARM32
